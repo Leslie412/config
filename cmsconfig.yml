@@ -2,4 +2,4 @@ cmsconfig:
     - coupon:
         isVisible: true
     - pruduct:
-        isVisible: false
+        isVisible: true
