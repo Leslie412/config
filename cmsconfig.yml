@@ -1,4 +1,5 @@
-- coupon:
-    isVisible: true
-- pruduct:
-    isVisible: false
+cmsconfig:
+    - coupon:
+        isVisible: true
+    - pruduct:
+        isVisible: false
